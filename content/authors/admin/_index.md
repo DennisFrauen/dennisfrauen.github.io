@@ -14,7 +14,7 @@ role: PhD Candidate & Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute for AI in Management
+  - name: Institute of AI in Management
     url: https://www.ai.bwl.lmu.de
   - name: LMU Munich
     url: https://www.lmu.de/en/
