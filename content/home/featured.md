@@ -1,6 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: collection
 
 # This file represents a page section.
