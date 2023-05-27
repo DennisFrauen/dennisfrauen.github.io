@@ -24,10 +24,10 @@ bio: PhD student at the Institute of AI in Management, LMU Munich
 
 # Interests to show in About widget
 interests:
-  - Causal Machine Learning
-  - Treatment Effect Estimation
-  - Deep Learning
-  - Off-Policy Learning
+  - Causal inference & machine learning
+  - Probabilistic modeling
+  - Off-policy learning
+  - (Causal) algorithmic fairness
   
 # Education to show in About widget
 #education:
@@ -80,6 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year PhD student at the Institute of AI in Management, LMU Munich, supervised by Prof. Stefan Feuerriegel. My research focuses mainly on causal machine learning. More precisely, I am interested in developing novel methodology for causal inference from observational data. In doing so, I build on tools from both statistical theory as well as recent advances in e.g., Deep Learning.
+I am a second-year PhD student at the Institute of AI in Management, LMU Munich. My research interest lies in the intersection of causality, machine learning, and statistics. I am interested in developing novel machine learning methods for casual inference from observational data. This includes methods for estimating causal effects, but also topics on (partial) identification and causal sensitivity analysis. Furthermore, I am interested in applications of causal concepts in algorithmic fairness and optimal decision-making.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

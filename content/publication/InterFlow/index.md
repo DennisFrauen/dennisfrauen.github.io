@@ -4,7 +4,7 @@ authors:
 - Valentyn Melnychuk
 - admin
 - Stefan Feuerriegel
-date: "2022-09-13T00:00:00Z"
+date: "2023-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ summary: We propose a fully-parametric deep learning method for efficient interv
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/2209.06203.pdf
