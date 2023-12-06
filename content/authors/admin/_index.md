@@ -81,6 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year PhD student at the Institute of AI in Management, LMU Munich. My research interest lies in the intersection of causality, machine learning, and statistics. I am interested in developing novel machine learning methods for casual inference from observational data. This includes methods for estimating causal effects, but also topics on (partial) identification and causal sensitivity analysis. Furthermore, I am interested in applications of causal concepts in algorithmic fairness and optimal decision-making.
+I am a third-year PhD student at LMU Munich, supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/feuerriegel.html). I am also an [Ellis](https://ellis.eu/phd-postdoc) PhD student, where I am co-supervised by [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) (University of Cambridge). My research interest lies in the intersection of causality, machine learning, and statistics. I am interested in developing efficient, robust, and reliable machine learning methods for causal inference. This includes methods for estimating causal effects, but also topics on (partial) identification and causal sensitivity analysis. Furthermore, I use ideas from causality to make data-driven decision-making optimal and fair.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_DennisFrauen.pdf" "newtab" >}}CV{{< /staticref >}}.
