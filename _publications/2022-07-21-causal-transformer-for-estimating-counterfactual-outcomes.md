@@ -1,7 +1,7 @@
 ---
 title: "Causal Transformer for Estimating Counterfactual Outcomes"
 collection: publications
-authors: '<b>V. Melnychuk</b>, D. Frauen, S. Feuerriegel'
+authors: 'V. Melnychuk, <b>D. Frauen</b>, S. Feuerriegel'
 date: 2022-07-21
 excerpt: "![ct](/images/ct.png){: style='float: left; height: 100px'}"
 venue: 'ICML'
