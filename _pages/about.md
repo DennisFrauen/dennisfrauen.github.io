@@ -28,6 +28,8 @@ Environments]() (preprint coming soon).
 
 **[16/01/2024]** Four accepted papers at [ICLR 2024](https://iclr.cc/)! [A Neural Framework for Generalized Causal Sensitivity Analysis](https://arxiv.org/abs/2311.16026), [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://arxiv.org/abs/2310.17463), [Causal Fairness under Unobserved Confounding: A Neural Sensitivity Framework](https://openreview.net/pdf?id=DqD59dQP37), and [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation](https://openreview.net/pdf?id=d3xKPQVjSc).
 
+**[01/11/2023]** I received a mention as a [top reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers) at NeurIPS 2023.
+
 **[26/09/2023]** Together with [Stefan](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) and [Abdu](https://www.som.lmu.de/ai/en/institute/contact-page/abdurahman-maarouf-44145dac.html), we presented an overview of our research at the [Ladenburger Diskurs](https://www.daimler-benz-stiftung.de/cms/de/forschen/ladenburger-diskurse.html).
 
 **[21/09/2023]** Three accepted papers at [NeurIPS 2023](https://nips.cc/)! [Sharp Bounds for Generalized Causal Sensitivity Analysis](https://proceedings.neurips.cc/paper_files/paper/2023/file/7f8b8bc8ebac661c442c4dafd5d98c08-Paper-Conference.pdf), [Partial Counterfactual Identification of Continuous Outcomes with a Curvature Sensitivity Model](https://proceedings.neurips.cc/paper_files/paper/2023/file/65cbe3e21ac62553111d9ecf7d60c18e-Paper-Conference.pdf), and [Reliable Off-Policy Learning for Dosage Combinations](https://proceedings.neurips.cc/paper_files/paper/2023/file/d69103d7895f4e2083f24b664003d386-Paper-Conference.pdf).
