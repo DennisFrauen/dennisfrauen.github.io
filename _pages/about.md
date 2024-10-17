@@ -14,11 +14,14 @@ I am a final year PhD student at the [Institute of AI in Management](https://www
 - Causal machine learning
 - Uncertainty quantification
 - Partial identification and sensitivity analysis
-- Off-policy learning
+- Off-policy evaluation and reinforcement learning
 - (Causal) algorithmic fairness
+- Foundation models for causal inference
 
 
 ### News!
+**[03/06/2024]** I moved to the San Francisco Bay area to start my PhD internship at [Netflix Research](https://research.netflix.com/). I will be working on deep learning for message recommendations, leveraging tools from Causal ML and Reinforcement learning.
+
 **[16/05/2024]** Our paper [Causal Machine Learning for Cost-Effective Allocation of Development Aid](https://arxiv.org/abs/2401.16986) was accepted at [KDD 2024](https://kdd2024.kdd.org/).
 
 **[02/05/2024]** Two accepted papers at [ICML 2024](https://icml.cc/)! [Fair Off-Policy Learning from Observational Data](https://arxiv.org/abs/2303.08516) and [Meta-Learners for Partially-Identified Treatment Effects Across Multiple

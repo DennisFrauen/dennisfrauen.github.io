@@ -17,9 +17,9 @@ author_profile: true
 Feuerriegel, S., **Frauen, D.**,  Melnychuk, M., Schweisthal, J., Hess, K., Curth, A., Bauer, S., Kilbertus, N., Kohane, I.S. & van der Schaar, M. (2024). Causal Machine Learning for Predicting Treatment Outcomes. _Nature Medicine_. [PDF](https://www.nature.com/articles/s41591-024-02902-1)
 
 Schweisthal, J.\*, **Frauen, D.**\*, van der Schaar, M. & Feuerriegel, S. (2024). Meta-Learners for Partially-Identified Treatment Effects Across Multiple
-Environments. In _ICML 2024_. <code style="color : aqua">Coming soon!.</code>
+Environments. In _ICML 2024_. [PDF](https://openreview.net/pdf?id=s5PLISyNyP) [arXiv](https://arxiv.org/abs/2406.02464)
 
-**Frauen, D.**, Melnychuk, M., & Feuerriegel, S. (2024). Fair Off-Policy Learning from Observational Data. In _ICML 2024_. [arXiv](https://arxiv.org/abs/2303.08516)
+**Frauen, D.**, Melnychuk, M., & Feuerriegel, S. (2024). Fair Off-Policy Learning from Observational Data. In _ICML 2024_. [PDF](https://openreview.net/pdf?id=poEPRuNvM3) [arXiv](https://arxiv.org/abs/2303.08516)
 
 Kuzmanovic, M., **Frauen, D.**,  Hatt, T. & Feuerriegel, S. (2024). Causal Machine Learning for Cost-Effective Allocation of Development Aid. In _KDD 2024_. [arXiv](https://arxiv.org/abs/2401.16986)
 
@@ -47,5 +47,13 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 
 ## Preprints
+
+**Frauen, D.**, Hess, K. & Feuerriegel, S. (2024). Model-agnostic meta-learners for estimating heterogeneous treatment effects over time. [arXiv](https://arxiv.org/abs/2407.05287)
+
+Schweisthal, J., **Frauen, D.**, Schröder, M., Hess, K., Kilbertus, N. & Feuerriegel, S. 2024. Learning Representations of Instruments for Partial Identification of Treatment Effects. [arXiv](https://arxiv.org/abs/2410.08976)
+
+Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuerriegel, S. (2024). Conformal Prediction for Causal Effects of Continuous Treatments. [arXiv](https://arxiv.org/abs/2407.03094)
+
+Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). G-Transformer for Conditional Average Potential Outcome Estimation over Time. [arXiv](https://arxiv.org/abs/2405.21012)
 
 Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
