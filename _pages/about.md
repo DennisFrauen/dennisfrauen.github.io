@@ -20,7 +20,7 @@ I am a final year PhD student at the [Institute of AI in Management](https://www
 
 
 ### News!
-**[30/10/2024]** We launched the [CausalML lab](https://www.som.lmu.de/ai/de/forschung/casual-ml-lab/) at LMU Munich, where I will be co-director. The project is supported by the German Federal Ministry of Education and Research, in collaboration with [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home) (Helmholtz/TUM), [Stefan Bauer](https://www.professoren.tum.de/bauer-stefan) (Helmholtz/TUM), [Nadja Klein](https://kleinlab-statml.github.io/) (KIT), and [EconomicAI](https://economicai.com/).
+**[30/10/2024]** We launched the [CausalML lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at LMU Munich, where I will be co-director. The project is supported by the German Federal Ministry of Education and Research, in collaboration with [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home) (Helmholtz/TUM), [Stefan Bauer](https://www.professoren.tum.de/bauer-stefan) (Helmholtz/TUM), [Nadja Klein](https://kleinlab-statml.github.io/) (KIT), and [EconomicAI](https://economicai.com/).
 
 **[03/06/2024]** I moved to the San Francisco Bay area to start my PhD internship at [Netflix Research](https://research.netflix.com/). I will be working on deep learning for message recommendations, leveraging tools from Causal ML and Reinforcement learning.
 
