@@ -20,6 +20,8 @@ I am a final year PhD student at the [Institute of AI in Management](https://www
 
 
 ### News!
+**[20/11/2024]** I won the [G-Research Early Career Grant](https://www.gresearch.com/news/grants-for-phd-students-and-postdocs-in-quantitative-fields/). It will support my research stay with [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) at the [University of Cambridge](https://www.cam.ac.uk/) in January/February 2025.
+
 **[30/10/2024]** We launched the [CausalML lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at LMU Munich, where I will be co-director. The project is supported by the German Federal Ministry of Education and Research, in collaboration with [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home) (Helmholtz/TUM), [Stefan Bauer](https://www.professoren.tum.de/bauer-stefan) (Helmholtz/TUM), [Nadja Klein](https://kleinlab-statml.github.io/) (KIT), and [EconomicAI](https://economicai.com/).
 
 **[03/06/2024]** I moved to the San Francisco Bay area to start my PhD internship at [Netflix Research](https://research.netflix.com/). I will be working on deep learning for message recommendations, leveraging tools from Causal ML and Reinforcement learning.
