@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the [Institute of AI in Management](https://www.som.lmu.de/ai/en/), [LMU Munich](https://www.lmu.de/en/), supervised by Prof. Stefan Feuerriegel. I am also an [Ellis](https://ellis.eu/phd-postdoc) PhD student, co-supervised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge) My research focuses mainly on causal inference and machine learning. In particular, I develop efficient, robust, and reliable machine learning methods for causal inference. Furthermore, I use ideas from causality to make data-driven decision-making optimal and fair.
+I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I am also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I part of the [Ellis](https://ellis.eu/phd-postdoc) PhD program, where I am co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
 
-### Research interests
-- Causal machine learning
-- Uncertainty quantification
-- Partial identification and sensitivity analysis
-- Off-policy evaluation and reinforcement learning
+My research centers on building the next generation of AI/ML methods for *reliable data-driven decision-making*. Specifically, I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*—a critical step towards truly reliable decision-making. Central to my work are three key aspects: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthyness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
+- Causal machine learning, particularly treatment effect estimation
+- Off-policy learning and reinforcement learning
+- Robustness of causal inference methods (e.g., sensitivity analysis or partial identification)
+- Uncertainty quantification (e.g., conformal prediction or Bayesian methods)  
 - (Causal) algorithmic fairness
-- Foundation models for causal inference
+- Foundation models / LLMs for causal inference
+- Applications in various fields, including medicine and economics
 
 
 ### News!

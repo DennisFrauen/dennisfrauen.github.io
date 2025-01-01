@@ -57,3 +57,6 @@ Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuer
 Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). G-Transformer for Conditional Average Potential Outcome Estimation over Time. [arXiv](https://arxiv.org/abs/2405.21012)
 
 Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
+
+Wang, Y., Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K. & Feuerriegel, S. (2024). Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets. [arXiv](https://arxiv.org/abs/2412.11511)
+
