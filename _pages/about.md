@@ -21,6 +21,8 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 
 ### News!
+**[16/01/2024]** Two accepted papers at [ICLR 2025](https://iclr.cc/)! [Model-Agnostic Meta-Learners for Estimating Heterogeneous Treatment Effects over Time](https://arxiv.org/abs/2407.05287) and [Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets](https://arxiv.org/abs/2412.11511).
+
 **[20/11/2024]** I won the [G-Research Early Career Grant](https://www.gresearch.com/news/grants-for-phd-students-and-postdocs-in-quantitative-fields/). It will support my research stay with [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) at the [University of Cambridge](https://www.cam.ac.uk/) in January/February 2025.
 
 **[30/10/2024]** We launched the [CausalML lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at LMU Munich, where I will be co-director. The project is supported by the German Federal Ministry of Education and Research, in collaboration with [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home) (Helmholtz/TUM), [Stefan Bauer](https://www.professoren.tum.de/bauer-stefan) (Helmholtz/TUM), [Nadja Klein](https://kleinlab-statml.github.io/) (KIT), and [EconomicAI](https://economicai.com/).
