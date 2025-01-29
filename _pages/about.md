@@ -10,6 +10,8 @@ redirect_from:
 
 I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I am also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I am part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I am co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
 
+**I am on the 2025 job market and open to positions in both academia and industry.**
+
 My research centers on building the next generation of AI/ML methods for *reliable data-driven decision-making*. Specifically, I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*—a critical step towards truly reliable decision-making. Central to my work are three key aspects: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
 - Causal machine learning, particularly treatment effect estimation
 - Off-policy learning and reinforcement learning
@@ -21,6 +23,9 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 
 ### News!
+
+**[23/01/2025]** I am excited to join the [van der Schaar lab](https://www.vanderschaar-lab.com/) at the [University of Cambridge](https://www.cam.ac.uk/) as a visiting PhD student for the next three weeks as part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program. If you are in the Cambridge/ London area and would like to meet for a coffee, let me know!
+
 **[22/01/2025]** Two accepted papers at [ICLR 2025](https://iclr.cc/)! [Model-Agnostic Meta-Learners for Estimating Heterogeneous Treatment Effects over Time](https://arxiv.org/abs/2407.05287) and [Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets](https://arxiv.org/abs/2412.11511).
 
 **[20/11/2024]** I won the [G-Research Early Career Grant](https://www.gresearch.com/news/grants-for-phd-students-and-postdocs-in-quantitative-fields/). It will support my research stay with [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) at the [University of Cambridge](https://www.cam.ac.uk/) in January/February 2025.
