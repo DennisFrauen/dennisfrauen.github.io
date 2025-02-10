@@ -14,6 +14,10 @@ author_profile: true
 
 ## Peer-reviewed
 
+**Frauen, D.**, Hess, K. & Feuerriegel, S. (2025). Model-agnostic meta-learners for estimating heterogeneous treatment effects over time. In _ICLR 2025_. [arXiv](https://arxiv.org/abs/2407.05287)
+
+Wang, Y., Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K. & Feuerriegel, S. (2025). Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets. In _ICLR 2025_. [arXiv](https://arxiv.org/abs/2412.11511)
+
 Feuerriegel, S., **Frauen, D.**,  Melnychuk, M., Schweisthal, J., Hess, K., Curth, A., Bauer, S., Kilbertus, N., Kohane, I.S. & van der Schaar, M. (2024). Causal Machine Learning for Predicting Treatment Outcomes. _Nature Medicine_. [PDF](https://www.nature.com/articles/s41591-024-02902-1)
 
 Schweisthal, J.\*, **Frauen, D.**\*, van der Schaar, M. & Feuerriegel, S. (2024). Meta-Learners for Partially-Identified Treatment Effects Across Multiple
@@ -48,7 +52,7 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 ## Preprints
 
-**Frauen, D.**, Hess, K. & Feuerriegel, S. (2024). Model-agnostic meta-learners for estimating heterogeneous treatment effects over time. [arXiv](https://arxiv.org/abs/2407.05287)
+Melnychuk, M., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2025). Orthogonal Representation Learning for Estimating Causal Quantities. [arXiv](https://arxiv.org/abs/2502.04274)
 
 Schweisthal, J., **Frauen, D.**, Schröder, M., Hess, K., Kilbertus, N. & Feuerriegel, S. 2024. Learning Representations of Instruments for Partial Identification of Treatment Effects. [arXiv](https://arxiv.org/abs/2410.08976)
 
@@ -57,6 +61,4 @@ Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuer
 Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). G-Transformer for Conditional Average Potential Outcome Estimation over Time. [arXiv](https://arxiv.org/abs/2405.21012)
 
 Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
-
-Wang, Y., Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K. & Feuerriegel, S. (2024). Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets. [arXiv](https://arxiv.org/abs/2412.11511)
 
