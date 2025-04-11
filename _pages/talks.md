@@ -4,6 +4,11 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+**Frauen, D.** (2025). Treatment effect estimation for optimal decision-making. _King Abdullah University of Science and Technology (KAUST)_. Thuwal, Saudi Arabia.
+
+**Frauen, D.**, Schweisthal, J.  (2025). Tutorial on Causal Machine Learning. _Department of Applied Mathematics and Theoretical Physics, University of Cambridge_. Cambridge, UK.
+
 **Frauen, D.** (2024). Causal Machine Learning Beyond Traditional Assumptions. _Cologne Institute for Information Systems_. Cologne, Germany. [Slides]()
 
 **Frauen, D.** (2024). Introduction to Causal Machine Learning. _Decision Neuroscience Lab ETH Zurich_. Zurich, Switzerland. [Slides]()

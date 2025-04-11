@@ -24,6 +24,10 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 ### News!
 
+**[09/04/2025]** I will be joining [Meta](https://research.facebook.com/) as a Research Scientist intern in New York City this summer!
+
+**[08/04/2025]** I was named a [Rising Star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) by [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) and presented our resesarch in Thuwal, Saudi Arabia.
+
 **[23/01/2025]** I am excited to join the [van der Schaar lab](https://www.vanderschaar-lab.com/) at the [University of Cambridge](https://www.cam.ac.uk/) as a visiting PhD student for the next three weeks as part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program. If you are in the Cambridge/ London area and would like to meet for a coffee, let me know!
 
 **[22/01/2025]** Two accepted papers at [ICLR 2025](https://iclr.cc/)! [Model-Agnostic Meta-Learners for Estimating Heterogeneous Treatment Effects over Time](https://arxiv.org/abs/2407.05287) and [Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets](https://arxiv.org/abs/2412.11511).
