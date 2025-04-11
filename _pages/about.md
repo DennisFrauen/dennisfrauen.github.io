@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I am also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I am part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I am co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
 
-**I am on the 2025 job market and open to internship/full-time opportunities in both industry and academia.**
+**I am on the 2025 job market and open to opportunities in both industry and academia.**
 
 My research centers on building the next generation of AI/ML methods for *reliable data-driven decision-making*. Specifically, I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*—a critical step towards truly reliable decision-making. Central to my work are three key aspects: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
 - Causal machine learning, particularly treatment effect estimation
@@ -26,7 +26,7 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 **[09/04/2025]** I will be joining [Meta](https://research.facebook.com/) as a Research Scientist intern in New York City this summer!
 
-**[08/04/2025]** I was named a [Rising Star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) by [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) and presented our resesarch in Thuwal, Saudi Arabia.
+**[08/04/2025]** I was named a [Rising Star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) by [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) and presented our research in Thuwal, Saudi Arabia.
 
 **[23/01/2025]** I am excited to join the [van der Schaar lab](https://www.vanderschaar-lab.com/) at the [University of Cambridge](https://www.cam.ac.uk/) as a visiting PhD student for the next three weeks as part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program. If you are in the Cambridge/ London area and would like to meet for a coffee, let me know!
 
