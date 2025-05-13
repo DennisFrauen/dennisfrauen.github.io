@@ -24,6 +24,8 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 ### News!
 
+**[06/05/2025]** Our paper [Learning Representations of Instruments for Partial Identification of Treatment Effects](https://arxiv.org/abs/2410.08976) got accepted at [ICML 2025](https://icml.cc/)!
+
 **[09/04/2025]** I will be joining [Meta](https://research.facebook.com/) as a Research Scientist Intern in New York City this summer!
 
 **[08/04/2025]** I was named a [Rising Star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) by [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) and presented our research in Thuwal, Saudi Arabia.
