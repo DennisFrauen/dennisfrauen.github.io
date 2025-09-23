@@ -24,7 +24,7 @@ Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuer
 
 Amad, H., Qian, Z., **Frauen, D.**, Piskorz, J., Feuerriegel, S. & van der Schaar, M. (2025). Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference. In _NeurIPS 2025_. [arXiv]()
 
-Kern, C., Fischer, U.A., Schweisthal, J., **Frauen, D.**, Ghani, R., Feuerriegel, S., van der Schaar, M. & Kreuter F. (2025). Algorithms for reliable decision-making need causal reasoning. In _ICML 2025_. [PDF](https://www.nature.com/articles/s43588-025-00814-9)
+Kern, C., Fischer, U.A., Schweisthal, J., **Frauen, D.**, Ghani, R., Feuerriegel, S., van der Schaar, M. & Kreuter F. (2025). Algorithms for reliable decision-making need causal reasoning. In _Nature Computational Science_. [PDF](https://www.nature.com/articles/s43588-025-00814-9)
 
 Schweisthal, J., **Frauen, D.**, Schröder, M., Hess, K., Kilbertus, N. & Feuerriegel, S. (2025). Learning Representations of Instruments for Partial Identification of Treatment Effects. In _ICML 2025_. [PDF](https://openreview.net/pdf?id=wVD6pQZa91)
 
