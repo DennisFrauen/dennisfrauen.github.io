@@ -14,9 +14,23 @@ author_profile: true
 
 ## Peer-reviewed
 
-**Frauen, D.**, Hess, K. & Feuerriegel, S. (2025). Model-agnostic meta-learners for estimating heterogeneous treatment effects over time. In _ICLR 2025_. [arXiv](https://arxiv.org/abs/2407.05287)
+**Frauen, D.**\*, Schröder, M.\*, Hess, K. & Feuerriegel, S. (2025). Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2505.13072)
 
-Wang, Y., Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K. & Feuerriegel, S. (2025). Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets. In _ICLR 2025_. [arXiv](https://arxiv.org/abs/2412.11511)
+Ma, Y., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2025). Treatment Effect Estimation for Optimal Decision-Making. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2507.02843)
+
+**Frauen, D.**, Melnychuk, V., Schweisthal, J., van der Schaar, M. & Feuerriegel, S. (2025). Treatment Effect Estimation for Optimal Decision-Making. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2505.13092)
+
+Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuerriegel, S. (2025). Conformal Prediction for Causal Effects of Continuous Treatments. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2407.03094)
+
+Amad, H., Qian, Z., **Frauen, D.**, Piskorz, J., Feuerriegel, S. & van der Schaar, M. (2025). Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference. In _NeurIPS 2025_. [arXiv]()
+
+Kern, C., Fischer, U.A., Schweisthal, J., **Frauen, D.**, Ghani, R., Feuerriegel, S., van der Schaar, M. & Kreuter F. (2025). Algorithms for reliable decision-making need causal reasoning. In _ICML 2025_. [PDF](https://www.nature.com/articles/s43588-025-00814-9)
+
+Schweisthal, J., **Frauen, D.**, Schröder, M., Hess, K., Kilbertus, N. & Feuerriegel, S. (2025). Learning Representations of Instruments for Partial Identification of Treatment Effects. In _ICML 2025_. [PDF](https://openreview.net/pdf?id=wVD6pQZa91)
+
+**Frauen, D.**, Hess, K. & Feuerriegel, S. (2025). Model-agnostic meta-learners for estimating heterogeneous treatment effects over time. In _ICLR 2025_. [PDF](https://openreview.net/pdf?id=QGGNvKaoIU)
+
+Wang, Y., Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K. & Feuerriegel, S. (2025). Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets. In _ICLR 2025_. [PDF](https://openreview.net/pdf?id=BHFs80Jf5V)
 
 Feuerriegel, S., **Frauen, D.**,  Melnychuk, M., Schweisthal, J., Hess, K., Curth, A., Bauer, S., Kilbertus, N., Kohane, I.S. & van der Schaar, M. (2024). Causal Machine Learning for Predicting Treatment Outcomes. _Nature Medicine_. [PDF](https://www.nature.com/articles/s41591-024-02902-1)
 
@@ -25,11 +39,11 @@ Environments. In _ICML 2024_. [PDF](https://openreview.net/pdf?id=s5PLISyNyP) [a
 
 **Frauen, D.**, Melnychuk, M., & Feuerriegel, S. (2024). Fair Off-Policy Learning from Observational Data. In _ICML 2024_. [PDF](https://openreview.net/pdf?id=poEPRuNvM3) [arXiv](https://arxiv.org/abs/2303.08516)
 
-Kuzmanovic, M., **Frauen, D.**,  Hatt, T. & Feuerriegel, S. (2024). Causal Machine Learning for Cost-Effective Allocation of Development Aid. In _KDD 2024_. [arXiv](https://arxiv.org/abs/2401.16986)
+Kuzmanovic, M., **Frauen, D.**,  Hatt, T. & Feuerriegel, S. (2024). Causal Machine Learning for Cost-Effective Allocation of Development Aid. In _KDD 2024_. [PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671551) [arXiv](https://arxiv.org/abs/2401.16986)
 
-**Frauen, D.**, Imrie, F., Curth, A., Melnychuk, M., Feuerriegel, S. & van der Schaar, M. (2024). A Neural Framework for Generalized Causal Sensitivity Analysis. In _ICLR 2024_. [arXiv](https://arxiv.org/abs/2311.16026)
+**Frauen, D.**, Imrie, F., Curth, A., Melnychuk, M., Feuerriegel, S. & van der Schaar, M. (2024). A Neural Framework for Generalized Causal Sensitivity Analysis. In _ICLR 2024_. [PDF](https://openreview.net/pdf?id=ikX6D1oM1c) [arXiv](https://arxiv.org/abs/2311.16026)
 
-Hess, K., Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2024). Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation. In _ICLR 2024_. [arXiv](https://arxiv.org/abs/2310.17463)
+Hess, K., Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2024). Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation. In _ICLR 2024_. [PDF](https://openreview.net/pdf?id=uwO71a8wET) [arXiv](https://arxiv.org/abs/2310.17463)
 
 Schröder, M., **Frauen, D.** & Feuerriegel, S. (2024). Causal Fairness under Unobserved Confounding: A Neural Sensitivity Framework. In _ICLR 2024_. [PDF](https://openreview.net/pdf?id=DqD59dQP37)
 
@@ -52,11 +66,11 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 ## Preprints
 
+Ma, Y.\*, **Frauen, D.**\*, Javurek, E. & Feuerriegel, S. (2025). Foundation Models for Causal Inference via Prior-Data Fitted Networks. [arXiv](https://arxiv.org/abs/2506.10914)
+
+Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Efficient and Sharp Off-Policy Learning under Unobserved Confounding. [arXiv](https://arxiv.org/abs/2502.13022)
+
 Melnychuk, M., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2025). Orthogonal Representation Learning for Estimating Causal Quantities. [arXiv](https://arxiv.org/abs/2502.04274)
-
-Schweisthal, J., **Frauen, D.**, Schröder, M., Hess, K., Kilbertus, N. & Feuerriegel, S. 2024. Learning Representations of Instruments for Partial Identification of Treatment Effects. [arXiv](https://arxiv.org/abs/2410.08976)
-
-Schröder, M., **Frauen, D.**, Schweisthal, J., Hess, K.,  Melnychuk, M. & Feuerriegel, S. (2024). Conformal Prediction for Causal Effects of Continuous Treatments. [arXiv](https://arxiv.org/abs/2407.03094)
 
 Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). G-Transformer for Conditional Average Potential Outcome Estimation over Time. [arXiv](https://arxiv.org/abs/2405.21012)
 

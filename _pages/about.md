@@ -24,6 +24,12 @@ My research centers on building the next generation of AI/ML methods for *reliab
 
 ### News!
 
+**[19/09/2025]** Five papers accepted at [NeurIPS 2025](https://neurips.cc/)! [Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data](https://arxiv.org/abs/2505.13072), [LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](https://arxiv.org/abs/2507.02843), [Treatment Effect Estimation for Optimal Decision-Making](https://arxiv.org/abs/2505.13092), [Conformal prediction for causal effects of continuous treatments](https://arxiv.org/abs/2407.03094), and [Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference]().
+
+**[16/06/2025]** I started my research internship at [Meta](https://research.facebook.com/) and moved to NYC!
+
+**[27/05/2025]** Our article [Algorithms for reliable decision-making need causal reasoning](https://www.nature.com/articles/s43588-025-00814-9) got accepted at [Nature Computational Science](https://www.nature.com/natcomputsci)!
+
 **[06/05/2025]** Our paper [Learning Representations of Instruments for Partial Identification of Treatment Effects](https://arxiv.org/abs/2410.08976) got accepted at [ICML 2025](https://icml.cc/)!
 
 **[09/04/2025]** I will be joining [Meta](https://research.facebook.com/) as a Research Scientist Intern in New York City this summer!
