@@ -12,17 +12,18 @@ I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I a
 
 **I am on the 2025/2026 job market and open to opportunities in both industry and academia.**
 
-My research centers on building the next generation of AI/ML methods for *reliable data-driven decision-making*. Specifically, I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*—a critical step towards truly reliable decision-making. Central to my work are three key aspects: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
-- Causal machine learning, particularly treatment effect estimation
+My research centers on machine learning methods for *reliable data-driven decision-making*. I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*. Central to my work are: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
+- Causal machine learning, treatment effect estimation, and orthogonal/ debiased learning
 - Off-policy learning and reinforcement learning
-- Robustness of causal inference methods (e.g., sensitivity analysis or partial identification)
-- Uncertainty quantification (e.g., conformal prediction or Bayesian methods)  
-- (Causal) algorithmic fairness
 - Foundation models / LLMs for causal inference
+- Prediction-powered inference
+- Learning-to-rank and LLM evaluation
+- Uncertainty quantification (e.g., conformal prediction and partial identification)
 - Applications in various fields, including medicine and economics
 
-
 ### News!
+
+**[09/10/2025]** Our paper *How reliable are treatment effects in clinical trials with dropout?* got accepted as an oral presentation at the [CauScien Workshop](https://neurips.cc/virtual/2025/workshop/109550) of NeurIPS 2025!
 
 **[19/09/2025]** Five papers accepted at [NeurIPS 2025](https://neurips.cc/)! [Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data](https://arxiv.org/abs/2505.13072), [LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](https://arxiv.org/abs/2507.02843), [Treatment Effect Estimation for Optimal Decision-Making](https://arxiv.org/abs/2505.13092), [Conformal prediction for causal effects of continuous treatments](https://arxiv.org/abs/2407.03094), and [Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference]().
 
