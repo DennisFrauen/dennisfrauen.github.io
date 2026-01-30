@@ -14,6 +14,21 @@ author_profile: true
 
 ## Peer-reviewed
 
+Ma, Y.\*, **Frauen, D.**\*, Javurek, E. & Feuerriegel, S. (2026). Foundation Models for Causal Inference via Prior-Data Fitted Networks. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2506.10914)
+
+
+Javurek, E., Melnychuk, M., Schweisthal, J., Hess, K., **Frauen, D.** & Feuerriegel, S. (2026). An Orthogonal Learner for Individualized Outcomes in Markov Decision Processes. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2509.26429)
+
+Hess, K., **Frauen, D.**, van der Schaar, M. & Feuerriegel, S. (2026). Overlap-weighted orthogonal meta-learner for treatment effect estimation over time. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2510.19643)
+
+Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2026). Efficient and Sharp Off-Policy Learning under Unobserved Confounding. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2502.13022)
+
+Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2026). G-Transformer for Conditional Average Potential Outcome Estimation over Time. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2405.21012)
+
+Melnychuk, M., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2026). Overlap-Adaptive Regularization for Conditional Average Treatment Effect Estimation. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2509.24962)
+
+Melnychuk, M., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2026). Orthogonal Representation Learning for Estimating Causal Quantities. In _AISTATS 2026_. **Oral**. [arXiv](https://arxiv.org/abs/2502.04274)
+
 **Frauen, D.**\*, Schröder, M.\*, Hess, K. & Feuerriegel, S. (2025). Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2505.13072)
 
 Ma, Y., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2025). Treatment Effect Estimation for Optimal Decision-Making. In _NeurIPS 2025_. [arXiv](https://arxiv.org/abs/2507.02843)
@@ -66,13 +81,11 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 ## Preprints
 
-Ma, Y.\*, **Frauen, D.**\*, Javurek, E. & Feuerriegel, S. (2025). Foundation Models for Causal Inference via Prior-Data Fitted Networks. [arXiv](https://arxiv.org/abs/2506.10914)
+**Frauen, D.**, Deviyani, A., van der Schaar, M. & Feuerriegel, S. (2026). Nonparametric LLM Evaluation from Preference Data. [arXiv](https://www.arxiv.org/abs/2601.21816)
 
-Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Efficient and Sharp Off-Policy Learning under Unobserved Confounding. [arXiv](https://arxiv.org/abs/2502.13022)
+Wang, Y., **Frauen, D.**, Schweisthal, J., Schröder, M. & Feuerriegel, S. (2025). Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring. [arXiv](https://arxiv.org/abs/2510.13397)
 
-Melnychuk, M., **Frauen, D.**, Schweisthal, J. & Feuerriegel, S. (2025). Orthogonal Representation Learning for Estimating Causal Quantities. [arXiv](https://arxiv.org/abs/2502.04274)
+Ma, H., **Frauen, D.** & Feuerriegel, S. (2024). DeepBlip: Estimating Conditional Average Treatment Effects Over Time. [arXiv](https://arxiv.org/abs/2511.14545)
 
-Hess, K., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). G-Transformer for Conditional Average Potential Outcome Estimation over Time. [arXiv](https://arxiv.org/abs/2405.21012)
-
-Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2024). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
+Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2025). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
 

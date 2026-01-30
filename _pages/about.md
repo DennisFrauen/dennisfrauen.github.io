@@ -10,7 +10,6 @@ redirect_from:
 
 I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I am also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I am part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I am co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
 
-**I am on the 2025/2026 job market and open to opportunities in both industry and academia.**
 
 My research centers on machine learning methods for *reliable data-driven decision-making*. I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*. Central to my work are: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
 - Causal machine learning, treatment effect estimation, and orthogonal/ debiased learning
@@ -23,17 +22,19 @@ My research centers on machine learning methods for *reliable data-driven decisi
 
 ### News!
 
+**[27/01/2026]** Six papers accepted at [ICLR 2026](https://iclr.cc/)! [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914), [Overlap-weighted orthogonal meta-learner for treatment effect estimation over time](https://arxiv.org/abs/2510.19643), [An Orthogonal Learner for Individualized Outcomes in Markov Decision Processes](https://arxiv.org/abs/2509.26429), [G-Transformer for Conditional Average Potential Outcome Estimation over Time](https://arxiv.org/abs/2405.21012), [Efficient and Sharp Off-Policy Learning under Unobserved Confounding](https://arxiv.org/abs/2502.13022), and [Overlap-Adaptive Regularization for Conditional Average Treatment Effect Estimation](https://arxiv.org/abs/2509.24962).
+
+**[10/01/2026]** Our paper *Orthogonal Representation Learning for Estimating Causal Quantities* got accepted as an oral presentation at the [AISTATS 2026](https://virtual.aistats.org/)!
+
 **[09/10/2025]** Our paper *How reliable are treatment effects in clinical trials with dropout?* got accepted as an oral presentation at the [CauScien Workshop](https://neurips.cc/virtual/2025/workshop/109550) of NeurIPS 2025!
 
-**[19/09/2025]** Five papers accepted at [NeurIPS 2025](https://neurips.cc/)! [Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data](https://arxiv.org/abs/2505.13072), [LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](https://arxiv.org/abs/2507.02843), [Treatment Effect Estimation for Optimal Decision-Making](https://arxiv.org/abs/2505.13092), [Conformal prediction for causal effects of continuous treatments](https://arxiv.org/abs/2407.03094), and [Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference]().
+**[19/09/2025]** Five papers accepted at [NeurIPS 2025](https://neurips.cc/)! [Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data](https://arxiv.org/abs/2505.13072), [LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](https://arxiv.org/abs/2507.02843), [Treatment Effect Estimation for Optimal Decision-Making](https://arxiv.org/abs/2505.13092), [Conformal prediction for causal effects of continuous treatments](https://arxiv.org/abs/2407.03094), and [Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference](https://openreview.net/forum?id=K7s0lIjhWx).
 
 **[16/06/2025]** I started my research internship at [Meta](https://research.facebook.com/) and moved to NYC!
 
 **[27/05/2025]** Our article [Algorithms for reliable decision-making need causal reasoning](https://www.nature.com/articles/s43588-025-00814-9) got accepted at [Nature Computational Science](https://www.nature.com/natcomputsci)!
 
 **[06/05/2025]** Our paper [Learning Representations of Instruments for Partial Identification of Treatment Effects](https://arxiv.org/abs/2410.08976) got accepted at [ICML 2025](https://icml.cc/)!
-
-**[09/04/2025]** I will be joining [Meta](https://research.facebook.com/) as a Research Scientist Intern in New York City this summer!
 
 **[08/04/2025]** I was named a [Rising Star in AI](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) by [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) and presented our research in Thuwal, Saudi Arabia.
 
