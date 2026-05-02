@@ -1,18 +1,22 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find all papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">The full publication list can be found on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
  (\* indicates equal contribution)
 
 
 ## Peer-reviewed
+
+**Frauen, D.**, Deviyani, A., van der Schaar, M. & Feuerriegel, S. (2026). Nonparametric LLM Evaluation from Preference Data. In _ICML 2026_. [arXiv](https://www.arxiv.org/abs/2601.21816)
+
+Ma, H., **Frauen, D.** & Feuerriegel, S. (2026). DeepBlip: Estimating Conditional Average Treatment Effects Over Time. In _ICML 2026_. [arXiv](https://arxiv.org/abs/2511.14545)
 
 Ma, Y.\*, **Frauen, D.**\*, Javurek, E. & Feuerriegel, S. (2026). Foundation Models for Causal Inference via Prior-Data Fitted Networks. In _ICLR 2026_. [arXiv](https://arxiv.org/abs/2506.10914)
 
@@ -81,11 +85,8 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 ## Preprints
 
-**Frauen, D.**, Deviyani, A., van der Schaar, M. & Feuerriegel, S. (2026). Nonparametric LLM Evaluation from Preference Data. [arXiv](https://www.arxiv.org/abs/2601.21816)
 
 Wang, Y., **Frauen, D.**, Schweisthal, J., Schröder, M. & Feuerriegel, S. (2025). Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring. [arXiv](https://arxiv.org/abs/2510.13397)
-
-Ma, H., **Frauen, D.** & Feuerriegel, S. (2024). DeepBlip: Estimating Conditional Average Treatment Effects Over Time. [arXiv](https://arxiv.org/abs/2511.14545)
 
 Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2025). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
 

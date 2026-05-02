@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at [LMU Munich](https://www.lmu.de/en/), where I am also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I am part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I am co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
+I am a Research Scientist at [Meta](https://www.meta.com/) where I work on ML research for experimentation. Previously I was a PhD student at [LMU Munich](https://www.lmu.de/en/), where I was also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I was part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I was co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
 
 
 My research centers on machine learning methods for *reliable data-driven decision-making*. I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*. Central to my work are: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
-- Causal machine learning, treatment effect estimation, and orthogonal/ debiased learning
+- Causal machine learning, treatment effect estimation, and orthogonal/ debiased machine learning
 - Off-policy learning and reinforcement learning
+- LLM post-training (e.g., alignment, routing, evaluation)
 - Foundation models / LLMs for causal inference
 - Prediction-powered inference
-- Learning-to-rank and LLM evaluation
 - Uncertainty quantification (e.g., conformal prediction and partial identification)
 - Applications in various fields, including medicine and economics
 
 ### News!
+
+**[04/05/2026]** I started a new position as a Research Scientist at [Meta](https://www.meta.com/) and moved to NYC!
+
+**[30/04/2026]** Three papers accepted at [ICML 2026](https://icml.cc/)! [Nonparametric LLM Evaluation from Preference Data](https://arxiv.org/abs/2601.21816), [Rank-Learner: Orthogonal Ranking of Treatment Effects](https://arxiv.org/abs/2602.03517), and [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](https://arxiv.org/abs/2511.14545).
+
+**[24/03/2026]** I succesfully passed my PhD defense with distinction (summa cum laude)!
 
 **[27/01/2026]** Six papers accepted at [ICLR 2026](https://iclr.cc/)! [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914), [Overlap-weighted orthogonal meta-learner for treatment effect estimation over time](https://arxiv.org/abs/2510.19643), [An Orthogonal Learner for Individualized Outcomes in Markov Decision Processes](https://arxiv.org/abs/2509.26429), [G-Transformer for Conditional Average Potential Outcome Estimation over Time](https://arxiv.org/abs/2405.21012), [Efficient and Sharp Off-Policy Learning under Unobserved Confounding](https://arxiv.org/abs/2502.13022), and [Overlap-Adaptive Regularization for Conditional Average Treatment Effect Estimation](https://arxiv.org/abs/2509.24962).
 

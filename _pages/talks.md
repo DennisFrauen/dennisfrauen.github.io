@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Frauen, D.** (2026). Nonparametric LLM Evaluation from Preference Data. _Munich Center for Machine Learning (MCML)_. Online.
+
+**Frauen, D.** (2026). Foundation Models for Causal Inference. _Instacard Research Seminar_. Online.
+    
 **Frauen, D.** (2025). Treatment effect estimation for optimal decision-making. _King Abdullah University of Science and Technology (KAUST)_. Thuwal, Saudi Arabia.
 
 **Frauen, D.**, Schweisthal, J.  (2025). Tutorial on Causal Machine Learning. _Department of Applied Mathematics and Theoretical Physics, University of Cambridge_. Cambridge, UK.
