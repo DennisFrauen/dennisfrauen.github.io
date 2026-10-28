@@ -22,6 +22,8 @@ My research centers on machine learning methods for *reliable data-driven decisi
 
 ### News!
 
+**[24/09/2026]** Three papers accepted at [NeurIPS 2026](https://neurips.cc/)! [Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring](https://arxiv.org/abs/2510.13397), [Generalized Bayes for Causal Inference](https://arxiv.org/abs/2603.03035), and [Targeted Synthetic Control Method](https://arxiv.org/abs/2602.04611).
+
 **[04/05/2026]** I started a new position as a Research Scientist at [Meta](https://www.meta.com/) and moved to NYC!
 
 **[30/04/2026]** Three papers accepted at [ICML 2026](https://icml.cc/)! [Nonparametric LLM Evaluation from Preference Data](https://arxiv.org/abs/2601.21816), [Rank-Learner: Orthogonal Ranking of Treatment Effects](https://arxiv.org/abs/2602.03517), and [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](https://arxiv.org/abs/2511.14545).

@@ -14,6 +14,12 @@ author_profile: true
 
 ## Peer-reviewed
 
+Wang, Y., **Frauen, D.**, Schweisthal, J., Schröder, M. & Feuerriegel, S. (2026). Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring. In _NeurIPS 2026_. [arXiv](https://arxiv.org/abs/2510.13397)
+
+Javurek, E., **Frauen, D.**, Wang, Y. & Feuerriegel, S. (2026). Generalized Bayes for Causal Inference. In _NeurIPS 2026_. [arXiv](https://arxiv.org/abs/2603.03035)
+
+Wang, Y., **Frauen, D.**, Javurek, E., Hess, K., Ma, Y. & Feuerriegel, S. (2026). Targeted Synthetic Control Method. In _NeurIPS 2026_. [arXiv](https://arxiv.org/abs/2602.04611)
+
 **Frauen, D.**, Deviyani, A., van der Schaar, M. & Feuerriegel, S. (2026). Nonparametric LLM Evaluation from Preference Data. In _ICML 2026_. [arXiv](https://www.arxiv.org/abs/2601.21816)
 
 Ma, H., **Frauen, D.** & Feuerriegel, S. (2026). DeepBlip: Estimating Conditional Average Treatment Effects Over Time. In _ICML 2026_. [arXiv](https://arxiv.org/abs/2511.14545)
@@ -85,8 +91,6 @@ Melnychuk, M., **Frauen, D.** & Feuerriegel, S. (2022). Causal Transformer for E
 
 ## Preprints
 
-
-Wang, Y., **Frauen, D.**, Schweisthal, J., Schröder, M. & Feuerriegel, S. (2025). Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring. [arXiv](https://arxiv.org/abs/2510.13397)
 
 Ma, Y., **Frauen, D.**, Melnychuk, M. & Feuerriegel, S. (2025). Counterfactual Fairness for Predictions using Generative Adversarial Networks. [arXiv](https://arxiv.org/abs/2310.17687)
 
