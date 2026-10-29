@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Meta](https://www.meta.com/) where I work on ML research for experimentation. Previously I was a PhD student at [LMU Munich](https://www.lmu.de/en/), where I was also co-director of the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). I was part of the [ELLIS](https://ellis.eu/phd-postdoc) PhD program, where I was co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge). 
+I am a Research Scientist at [Meta](https://www.meta.com/) on the Central Applied Science (CAS) team. Previously I completed my PhD at [LMU Munich](https://www.lmu.de/en/) in the [ELLIS](https://ellis.eu/phd-postdoc) program, co-supervised by [Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html) (LMU Munich) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) (University of Cambridge), where I also co-directed the [CausalML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/). 
 
 
-My research centers on machine learning methods for *reliable data-driven decision-making*. I focus on designing methods that not only predict outcomes but also understand the (causal) *impact of actions*. Central to my work are: *Optimality/Efficiency* (designing models and algorithms that maximally leverage the information from the available data), *Robustness* (ensuring stable performance under distributional shifts, incomplete information, or violations of assumptions), and *Trustworthiness* (building transparent models that account for ethical considerations and social impact). More specifically, my research interests span:
-- Causal machine learning, treatment effect estimation, and orthogonal/ debiased machine learning
+I am interested in methodology for building and evaluating AI models — methods that are of high practical importance while being principled in providing guarantees, often grounded in statistics and causal inference.
+
+My work is organized around three key themes: (I) *Efficiency*, (II) *Robustness*, and (III) *Trustworthiness*. Specific research areas include:
+- LLM and agent evaluation and post-training
+- (Causal) tabular foundation models
 - Off-policy learning and reinforcement learning
-- LLM post-training (e.g., alignment, routing, evaluation)
-- Foundation models / LLMs for causal inference
-- Prediction-powered inference
-- Uncertainty quantification (e.g., conformal prediction and partial identification)
-- Applications in various fields, including medicine and economics
+- Causal inference and debiased machine learning
+- Uncertainty quantification (e.g., conformal prediction, probabilistic and Bayesian methods)
 
 ### News!
 
